@@ -1,6 +1,6 @@
 # Procrastination Pulverizer
 
-Procrastination Pulverizer is an object detection system built using **YOLOv8** and OpenCV in Python. The project detects objects in a live video feed and triggers an alert when a mobile phone is detected, helping users stay focused.
+Procrastination Pulverizer is an object detection system built using **YOLOv11** and OpenCV in Python. The project detects objects in a live video feed and triggers an alert when a mobile phone is detected, helping users stay focused.
 
 ## Features
 - Real-time object detection using **YOLOv8**
@@ -15,10 +15,6 @@ Ensure you have **Python 3.8+** installed on your system. Then, install the requ
 ```bash
 pip install ultralytics opencv-python numpy pillow tkinter
 ```
-
-### Download YOLO Model
-The project uses the **YOLO11X** model for object detection. Download it from the following link and place it in the project directory:
-[Download YOLO11X](https://github.com/ultralytics/yolov8/releases)
 
 ## Usage
 Run the following command to start the object detection application:
