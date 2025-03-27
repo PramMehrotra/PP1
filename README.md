@@ -3,7 +3,7 @@
 Procrastination Pulverizer is an object detection system built using **YOLOv11** and OpenCV in Python. The project detects objects in a live video feed and triggers an alert when a mobile phone is detected, helping users stay focused.
 
 ## Features
-- Real-time object detection using **YOLOv8**
+- Real-time object detection using **YOLOv11**
 - Alerts the user when a mobile phone is detected
 - Graphical User Interface (GUI) using **Tkinter**
 - Optimized threading for smooth video processing
